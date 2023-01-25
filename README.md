@@ -4,7 +4,7 @@ I'm a software engineer with experience developing full stack web applications. 
 
 I'm proficient in JavaScript, Ruby, Python, and C, and I'm always looking for new opportunities to learn and make an impact.
 
-You can reach me via [LinkedIn](https://www.linkedin.com/in/mitulmistry/) and [Email](mailto:MitulMistryDev@gmail.com).
+You can reach me via [LinkedIn](https://www.linkedin.com/in/mitulmistry/) or [Email](mailto:MitulMistryDev@gmail.com).
 
 <!--
 **MitulMistry/MitulMistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
